@@ -1,4 +1,8 @@
 {
-	"name": "jollof-data-rethinkdb",
-	"version": "0.0.1"
+  "name": "jollof-data-arangodb",
+  "version": "0.0.1",
+  "dependencies": {
+    "arangojs": "git+https://github.com/iyobo/arangojs.git",
+    "co": "^4.6.0"
+  }
 }
