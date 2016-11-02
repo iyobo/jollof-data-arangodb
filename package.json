@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "dependencies": {
     "arangojs": "git+https://github.com/iyobo/arangojs.git",
-    "co": "^4.6.0"
+    "co": "^4.6.0",
+    "lodash": "^4.16.5"
   }
 }
