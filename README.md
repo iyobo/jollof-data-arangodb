@@ -7,7 +7,7 @@ With this adapter, you can now use ArangoDB (v3+) as a datasource with [The Joll
 ArangoDB is a modern multi-model database that merges the functionality of a Document, Key-Value, and Graphing Database system all-in-one.
 It also comes with native support for joins, transactions, Materialized views, comes with it's own SQL (String Query Language) called AQL, etc. 
 
-Basically AragoDB can handle everything you'd expect from a RDBM and MORE, all done with a modern/futuristic swag. 
+Basically ArangoDB can handle everything you'd expect from a RDBM and MORE, all done with modern/futuristic swag. 
 
 https://www.arangodb.com/
 
