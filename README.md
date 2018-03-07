@@ -4,7 +4,7 @@ ArangoDB data adapter for JollofJS
 With this adapter, you can now use ArangoDB as a datasource with [The JollofJS Framework](http://jollofjs.com)!
 
 ## What is ArangoDB
-ArangoDB is a modern multi-model database that merges the functionality of a Document, Key-Value, and Graphing system all in one.
+ArangoDB is a modern multi-model database that merges the functionality of a Document, Key-Value, and Graphing Database system all-in-one.
 It also comes with native support for joins, transactions, Materialized views, comes with it's own SQL (String Query Language) called AQL, etc. 
 
 Basically AragoDB can handle everything you'd expect from a RDBM and MORE, all done with a modern/futuristic swag. 
