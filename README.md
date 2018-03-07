@@ -46,7 +46,7 @@ To use native features like Joins, transactions, Views, Graphs, etc, feel free t
 
 ## JollofJS loves ArangoDB
 
-I would personally like to see more people take an interest in ArangoDB, so i must admit, I probably won't be in a hurry to create a PostreSQL or MySQL adapter as ArangoDB adequately fills the gap for each of these.
+I would personally like to see more people take an interest in ArangoDB. That said, I probably won't be in a hurry to create a PostreSQL or MySQL adapter as ArangoDB more than makes up for either of those.
 Give it a try!
 
 You are, however, more than free to create any adapters you need. They are fairly simple to churn out! Hit me up if you need help/guidance creating any.
